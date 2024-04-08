@@ -10,7 +10,7 @@ const Director = sequelize.define('director', {
         type: DataTypes.STRING,
         allowNull: false
     },
-    nacionality: {
+    nationality: {
         type: DataTypes.STRING,
         allowNull: false
     },
