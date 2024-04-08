@@ -10,7 +10,7 @@ const Movie = sequelize.define('movie', {
         type: DataTypes.STRING,
         allowNull: false
     },
-    spynopsis: {
+    synopsis: {
         type: DataTypes.STRING,
         allowNull: false
     },
